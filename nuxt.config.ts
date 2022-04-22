@@ -14,5 +14,7 @@ export default defineNuxtConfig({
                 src:"//typesquare.com/3/tsst/script/ja/typesquare.js?5fec60fb4f244dcbbb4b7f24ac1e02e5"
             }
         ]
-    }
+    },
+
+    target: 'static',
 })
